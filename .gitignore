@@ -1,0 +1,54 @@
+C OS
+.DS_Store
+._*
+Icon?
+
+## TEXTMATE
+*.tmproj
+tmtags
+
+## EMACS
+*~
+\#*
+.\#*
+
+## VIM
+*.swp
+
+## RAILS::GENERAL
+.bundle
+REVISION
+config/database.yml
+coverage
+db/*.sql
+db/*.sqlite3
+db/schema.rb
+log
+log/*.log
+pkg
+public/assets
+public/javascripts/all.js
+public/stylesheets/all.css
+public/system
+rcov
+rdoc
+rerun.txt
+tmp/**/*
+tmp/*
+vendor/bundle
+
+## RAILS::SPECIFIC
+.livereload
+.rvmrc
+config/api.yml
+config/aws.yml
+config/backup.yml
+config/newrelic.yml
+config/nginx.conf
+config/yahoo.yml
+public/sitemap*
+public/pages/ad_*
+test/*
+vendor/plugins/query_reviewer/
+
+
